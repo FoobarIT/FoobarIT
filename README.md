@@ -1,8 +1,12 @@
 ## Hi there 👋
 #### I'm FoobarIT, web app developer, I'm passionate about new technologies.
 
-<a href="https://github.com/QuentiumYT?tab=repositories">
+<a href="https://github.com/FoobarIT?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FoobarIT&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
+</a>
+
+<a href="https://github.com/FoobarIT/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoobarIT&theme=algolia&layout=compact">
 </a>
 
 ## My Stacks 🚀
