@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Im FoobarIT, web app developper, im passionate about new technologie.
+#### I'm FoobarIT, web app developer, I'm passionate about new technologies.
 
 <a href="https://github.com/QuentiumYT?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FoobarIT&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
