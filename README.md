@@ -5,10 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FoobarIT&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
 </a>
 
-<a href="https://github.com/FoobarIT/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoobarIT&theme=algolia&layout=compact">
-</a>
-
 ## My Stacks 🚀
 <code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
