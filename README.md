@@ -5,15 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FoobarIT&theme=algolia&show_icons=true&include_all_commits=true" alt="Anurag's github stats">
 </a>
 
-## My Stacks 🚀
-<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/nodewebkit.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/electron.svg"></code>
 
 ## My Tools :hammer:
 <code><img height="30" src="https://cdn.svgporn.com/logos/cpanel.svg"></code>
