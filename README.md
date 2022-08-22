@@ -24,9 +24,3 @@
 <a href="https://www.twitch.tv/foobarit">
   <img align="left" width="40px" src="https://cdn.svgporn.com/logos/twitch.svg" />
 </a>
-<a href="https://discord.gg/2mb22qe" title="Twitter">
-  <img align="left" width="40px" src="https://cdn.svgporn.com/logos/discord.svg" />
-</a>
-<a href="https://foobarit.itch.io/">
-  <img align="left" width="40px" src="https://cdn.svgporn.com/logos/game-analytics.svg" />
-</a>
